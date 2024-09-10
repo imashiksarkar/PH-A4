@@ -1,0 +1,19 @@
+{
+  "name": "PH-A4",
+  "version": "1.0.0",
+  "description": "Programming Hero Assignment 4",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "clear && node ./src/main.js",
+    "test": "vitest"
+  },
+  "keywords": [
+    "assignment"
+  ],
+  "author": "Ashik Sarkar <ashiksarkar.s18@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.0.5"
+  }
+}
